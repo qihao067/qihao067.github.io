@@ -285,9 +285,9 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "pages/self_intro.html"
       type: posts
-    values: "xxx"
+    values: 
       layout: single
       author_profile: true
       read_time: true
