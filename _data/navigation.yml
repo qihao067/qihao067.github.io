@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Publications"
-    url: /year-archive/
-  - title: "Experiences"
-    url: /collection-archive/
+  # - title: "Publications"
+  #   url: /year-archive/
+  # - title: "Experiences"
+  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
