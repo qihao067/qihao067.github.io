@@ -2,6 +2,32 @@
 layout: home
 author_profile: true
 ---
+<head>
+	<style>
+		.project{
+		  width: 800px;
+		  margin: 50px auto;
+		  border:solid 1px gray;
+		  overflow: hidden; /* 避免長方框下面顯示不正常 */
+		}
+		.teaser{
+		  width: 300px;
+		  float:left; /* 圖片在左邊 */
+		  padding: 20px;
+		}
+		.teaser img{
+		  display: block;
+		  width:100%;
+		}
+		.intro{
+		  float: right;  /* 文字在右邊 */
+		  width: 430px;
+		  padding: 20px 20px 0px 0px;
+		}
+	</style>
+</head>
+
+<body>
 
 <h1> Qihao Liu </h1>
 
@@ -23,14 +49,18 @@ author_profile: true
 <hr />
 <h4> Conference Papers </h4>
 
-<div id="container">
-<div id="photo"><img src="/imgs/try.jpg" /></div>
-<div id="content">
-<div id="text">xxx</div>
-<div id="news">xxx</div>
-</div>
+
+<div class="project">
+	<div class="teaser">
+		<img src="/imgs/try.jpg"/>
+	</div>
+	<div class="intro">
+		<p>  sss </p>
+	</div>
 </div>
 
 <h4> Preprint </h4>
 
 <h4> Workshop Papers </h4>
+
+</body>
