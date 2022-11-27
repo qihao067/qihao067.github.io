@@ -64,4 +64,12 @@ author_profile: true
 
 <zero-md src="2009-05-15-edge-case-nested-and-mixed-lists.md"></zero-md>
 
+<ul>
+	{% for post in site.posts %}
+		<li>
+			<a href="{{ post.url 2009-05-15-edge-case-nested-and-mixed-lists}}">{{ Edge Case: Nested and Mixed Lists }}</a>
+		</li>
+	{% endfor %}
+</ul>
+
 </body>
