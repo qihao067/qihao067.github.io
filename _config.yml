@@ -281,16 +281,16 @@ compress_html:
     envs: development
 
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "mine/posts/2009-05-15-edge-case-nested-and-mixed-lists.md"
-      type: posts
-    values: 
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+# # Defaults
+# defaults:
+#   # _posts
+#   - scope:
+#       path: "mine/posts/2009-05-15-edge-case-nested-and-mixed-lists.md"
+#       type: posts
+#     values: 
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: # true
+#       share: true
+#       related: true
