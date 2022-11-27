@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Qihao Liu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PHD student at Johns Hopkins University."
+  bio              : "PhD student at Johns Hopkins University."
   location         : "Baltimore, MD"
-  email            : "qliu45@jhu.edu"
+  email            : #"qliu45@jhu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
