@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qihao Liu try1"
+  name             : "Qihao Liu try3"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student at Johns Hopkins University."
   location         : "Baltimore, MD"
@@ -285,10 +285,10 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/pages/self_intro.html"
+      path: "mine/posts"
       type: posts
     values: 
-      layout: archive
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
