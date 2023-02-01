@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=WFl3hH0AAAAJ&hl"
     - label: "CV"
-      icon: "fas fa-file-user"
+      icon: "fab fa-fw fa-file-user"
       url: "https://qihao067.github.io/CV_QihaoLiu_github.pdf"
 
 # Site Footer
