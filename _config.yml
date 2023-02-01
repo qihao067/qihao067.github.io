@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "qliu45@jhu.edu"
+      # url: "qliu45@jhu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -131,6 +131,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=WFl3hH0AAAAJ&hl"
+    - label: "CV"
+      icon: "fas fa-file-user"
+      url: "https://qihao067.github.io/CV_QihaoLiu_github.pdf"
 
 # Site Footer
 footer:
