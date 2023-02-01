@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fab fa-solid fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=WFl3hH0AAAAJ&hl"
     - label: "CV"
       icon: "fab fa-fw fa-file"
