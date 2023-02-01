@@ -132,7 +132,7 @@ author:
       icon: "fab fa-solid fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=WFl3hH0AAAAJ&hl"
     - label: "CV"
-      icon: "fab fa-fw fa-file"
+      icon: "fab fa-solid fa-alien-8bit"
       url: "https://qihao067.github.io/CV_QihaoLiu_github.pdf"
 
 # Site Footer
