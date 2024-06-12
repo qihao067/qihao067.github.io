@@ -126,7 +126,7 @@ table#video {
 }
 
 .section{
-	font-size: 140%;
+	font-size: 240%;
 	font-weight: 500;
 }
 
@@ -156,11 +156,11 @@ code {
 
 .carousel-control-prev {
  margin-left: -10px;
- height: 500px;
+ max-height: 500px;
  }
  .carousel-control-next {
  margin-right: -10px;
- height: 500px;
+ max-height: 500px;
  }
  .carousel-item {
  /* height: 234px; */
@@ -212,7 +212,7 @@ code {
  .teaser-carousel {
     width: 95%;
     margin: auto;
-    height: 500px;
+    max-height: 540px;
  }
 
  .caption {
