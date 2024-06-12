@@ -35,7 +35,7 @@ strong, b {
 }
 
 p.author {
-    font-size: 13pt;
+    font-size: 15pt;
     text-align: center;
     margin: 0 0 0 0;
     padding: 0 3em 0 3em;
@@ -55,7 +55,7 @@ sup {
 
 
 .container {
-	width: 1000px;
+	width: 100%;
 	min-height: 1200px;
 	max-height: 999999px; /* prevents font boosting */
 	margin: 0 auto; /* top and bottom, right and left */
@@ -96,14 +96,14 @@ table.affiliations {
     margin-right: auto;
     margin-top: .5em;
     margin-bottom: .5em;
-    width: 80%;
-    max-width: 1080px;
+    width: 1040px;
+    max-width: 80%;
 }
 
 table.affiliations td {
     padding-top: .5em;
     /*width: 10%;*/
-    font-size: 11pt;
+    font-size: 12pt;
 }
 
 table#video {
@@ -241,4 +241,13 @@ code {
 
 .teaser-img {
     width: 300px !important;
+}
+
+.hr-twill-colorful {
+    border: 0;
+    padding: 3px;
+    background: linear-gradient(135deg, red, orange,green, blue, purple);
+    --mask-image: repeating-linear-gradient(135deg, #000 0px, #000 1px, transparent 1px, transparent 6px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
 }
