@@ -1,4 +1,4 @@
-@article{liu2024Alleviating,
+@article{liu2024alleviating,
   author    = {Qihao Liu and Zhanpeng Zeng and Ju He and Qihang Yu and Xiaohui Shen and Liang-Chieh Chen},
   title     = {Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models},
   journal   = {arxiv},
